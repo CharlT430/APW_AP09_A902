@@ -1,0 +1,89 @@
+body {
+    background-image: url("img/background.jpg");
+}
+
+#pa01 {
+    color:indigo;
+    text-align: justify;
+    margin-right: 125px;
+    margin-left: 125px;
+    font-family: Comic Neue;
+    font-size: 22px;
+    background-color: rgba(211, 211, 211, 0.8);
+}
+
+.title_1 {
+    color: rgb(173, 102, 21);
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color:brown;
+    text-decoration-style:wavy;
+    text-transform:capitalize;
+    text-shadow:3px 3px;
+    font-family: Montserrat;
+    font-size: 38px;
+    font-weight: bolder;
+}
+
+.title_2 {
+    color:chocolate;
+    text-align:center;
+    text-decoration-line: underline;
+    text-indent: 40px;
+    text-shadow:2px 2px;
+    font-family: Do Hyeon;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.title_2_alt {
+    color:firebrick;
+    text-align: center;
+    text-decoration-line:underline;
+    text-decoration-color:forestgreen;
+    text-decoration-style: dotted;
+    text-indent: 30px;
+    text-shadow:2px 2px;
+    font-family: Mitr;
+    font-weight: bold;
+    font-size: 38px;
+
+}
+
+.paragraph {
+    color:darkslategrey;
+    text-align:justify;
+    text-indent: 50px;
+    line-height: 1.5;
+    margin-right: 125px;
+    margin-left: 125px;
+    font-family:Inter;
+    font-size: 20px;
+    background-color: rgba(211, 211, 211, 0.8);
+
+}
+.paragraph_alt {
+    color:darkgreen;
+    text-align:right;
+    text-indent: 50px;
+    line-height: 1.25;
+    margin-right: 125px;
+    margin-left: 125px;
+    font-family: Montserrat;
+    font-size:20px;
+    background-color: rgba(211, 211, 211, 0.8);
+
+}
+.img {
+    text-align:center;
+    margin-right: 125px;
+    margin-left: 125px;
+
+}
+img {
+    width: 60%;
+    height: 60%
+}
+
+
